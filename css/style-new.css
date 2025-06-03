@@ -603,9 +603,9 @@ a:focus{
 }
 .treatment_all_comm_div .table_comparision_css_with_content{border-collapse:separate;border-spacing:0;margin-bottom:0;background-color:#f6f7fb;padding:20px 40px;border-radius:20px}
 .treatment_all_comm_div .table_comparision_css_with_content td,.treatment_all_comm_div .table_comparision_css_with_content th{border-top:none;border-bottom:none;}
-.treatment_all_comm_div .table_comparision_css_with_content th{text-align:left;font-size:21px;line-height:normal;font-weight:700; color:#154778;}
+.treatment_all_comm_div .table_comparision_css_with_content th{text-align:center;font-size:21px;line-height:normal;font-weight:700; color:#154778;}
 .treatment_all_comm_div .table_comparision_css_with_content tr td:first-child{text-align:left;font-size:18px;font-weight:500;line-height:normal;color: #000000}
-.treatment_all_comm_div .table_comparision_css_with_content td{text-align:left;font-size:16px;font-weight:300;width:25%;line-height:normal;color: #000000}
+.treatment_all_comm_div .table_comparision_css_with_content td{text-align:center;font-size:16px;font-weight:300;width:20%;line-height:normal;color: #000000}
 .treatment_all_comm_div .table_comparision_css_with_content td strong{font-weight: 500;}
 .treatment_all_comm_div .table_comparision_css_with_content:first-child,.treatment_all_comm_div .table_comparision_css_with_content th:first-child{text-align:left}
 @media screen and (max-width:600px){
@@ -613,8 +613,8 @@ a:focus{
 .treatment_all_comm_div .table_comparision_css_with_content td,.treatment_all_comm_div .table_comparision_css_with_content th{padding:10px 5px}
 .treatment_all_comm_div .table_comparision_css_with_content tr td:first-child{font-size: 14px}
 .treatment_all_comm_div .table_comparision_css_with_content td img,.treatment_all_comm_div .table_comparision_css_with_content th img{width:20px}
-.treatment_all_comm_div .table_comparision_css_with_content th{text-align:left;font-size:14px}
-.treatment_all_comm_div .table_comparision_css_with_content td{text-align:left;font-size:14px;font-weight:300}
+.treatment_all_comm_div .table_comparision_css_with_content th{text-align:center;font-size:14px}
+.treatment_all_comm_div .table_comparision_css_with_content td{text-align:center;font-size:14px;font-weight:300}
 .treatment_all_comm_div .table_comparision_css_with_content td:first-child{width:60%}
 }
 
