@@ -611,9 +611,9 @@ a:focus{
 @media screen and (max-width:600px){
 .treatment_all_comm_div .table_comparision_css_with_content{padding:15px}
 .treatment_all_comm_div .table_comparision_css_with_content td,.treatment_all_comm_div .table_comparision_css_with_content th{padding:10px 5px}
-.treatment_all_comm_div .table_comparision_css_with_content tr td:first-child{font-size: 14px}
-.treatment_all_comm_div .table_comparision_css_with_content td img,.treatment_all_comm_div .table_comparision_css_with_content th img{width:20px}
-.treatment_all_comm_div .table_comparision_css_with_content th{text-align:center;font-size:14px}
+.treatment_all_comm_div .table_comparision_css_with_content tr td:first-child{font-size: 12px;}
+.treatment_all_comm_div .table_comparision_css_with_content td img,.treatment_all_comm_div .table_comparision_css_with_content th img{width: 16px;}
+.treatment_all_comm_div .table_comparision_css_with_content th{text-align: center;font-size: 13px;vertical-align: middle;}
 .treatment_all_comm_div .table_comparision_css_with_content td{text-align:center;font-size:14px;font-weight:300}
 .treatment_all_comm_div .table_comparision_css_with_content td:first-child{width:60%}
 }
