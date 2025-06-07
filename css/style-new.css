@@ -191,7 +191,7 @@ a:focus{
 .treatment_all_comm_div.blue_icon_box_section .container{padding:40px;background-color:#e0f3ff;border-radius:20px}
 .treatment_all_comm_div.blue_icon_box_section .icon_box_why{width:56px;height:56px;padding:10px;margin-right:12px;background-color:#0c4679;border-radius:6px}
 .treatment_all_comm_div.blue_icon_box_section p{width:85%;line-height:normal;font-size:18px !important;font-weight:300;line-height:normal;margin-bottom:0}
-.treatment_all_comm_div.blue_icon_box_section p span{font-size:24px !important;font-weight:600;line-height: 36px}
+.treatment_all_comm_div.blue_icon_box_section p span{font-size:24px !important;font-weight:600;line-height: normal;}
 .treatment_all_comm_div.blue_icon_box_section .content_box_why_pcos{display:inline-flex;align-items:start}
 @media (max-width:1680px){
 .treatment_all_comm_div.blue_icon_box_section p{font-size:16px !important}
@@ -307,7 +307,7 @@ a:focus{
 @media (max-width:600px){
 .treatment_all_comm_div.icon_without_bg_section{margin-top:30px}
 .treatment_all_comm_div.icon_without_bg_section .container{padding:0 15px}
-.treatment_all_comm_div.icon_without_bg_section p{ font-size: 16p !importantx}
+.treatment_all_comm_div.icon_without_bg_section p{font-size: 16p !importantx}
 .treatment_all_comm_div.icon_without_bg_section .content_box_why_pcos p{width:85%; font-size: 16p !importantx}
 .treatment_all_comm_div.icon_without_bg_section p span{font-size:18px !important;font-weight:600}
 }
